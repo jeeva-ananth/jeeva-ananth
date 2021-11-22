@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeeva-ananth
+- 👀 I’m interested in Data Science 📊
+- 🌱 I’m currently learning python 🐍
